@@ -1,2 +1,2 @@
 # ALFAC-Org
-Repositories for the "Tech Challenge" group project (2024 - 7SOAT - Group 34) from FIAP Pós Tech's Software Architecture course
+Repositórios para o projeto de grupo "Tech Challenge" (2024 - 7SOAT - Grupo 34) do curso de Arquitetura de Software da FIAP Pós Tech
